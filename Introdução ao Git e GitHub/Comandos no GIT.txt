@@ -1,8 +1,11 @@
-Comandos no GIT
+# Comandos no GIT
 
+echo "seu texto" | exibir um texto
+openssl sha1 NomeDoArquivo | para gerar/exibir o sha1 daquele arquivo
 cd | navega até a pasta
 cd .. | volta uma pasta
 ls | lista os arquivos da pasta atual
+
 git init | inicializa reporitorio
 git status | Informa os status de tudo e dos arquivos não editados ou editados mas não comitados
 git add | adiciona o arquivo no stage para ser comitado
@@ -50,5 +53,4 @@ git stash clear
 
 
 como mudar de master para main:
-
 
